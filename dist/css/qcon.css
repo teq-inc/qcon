@@ -11,8 +11,8 @@
   font-style: normal;
   font-weight: normal;
 
-  src: url('../fonts//qcon.eot');
-  src: url('../fonts//qcon.eot?#iefix') format("embedded-opentype"), url('../fonts//qcon.woff') format("woff"), url('../fonts//qcon.ttf') format("truetype"), url('../fonts//qcon.svg?#qcon') format("svg");
+  src: url('../fonts/qcon.eot');
+  src: url('../fonts/qcon.eot?#iefix') format("embedded-opentype"), url('../fonts/qcon.woff') format("woff"), url('../fonts/qcon.ttf') format("truetype"), url('../fonts/qcon.svg?#qcon') format("svg");
 }
 .qcon {
   display: inline-block;
@@ -32,34 +32,67 @@
 .qcon-blivesta:before {
   content: "\e001";
 }
-.qcon-circle-o:before {
+.qcon-check-square-o:before {
   content: "\e002";
 }
-.qcon-circle:before {
+.qcon-circle-o:before {
   content: "\e003";
 }
-.qcon-quota:before {
+.qcon-circle:before {
   content: "\e004";
 }
-.qcon-square-c:before {
+.qcon-dribbble:before {
   content: "\e005";
 }
-.qcon-square-o:before {
+.qcon-envelope:before {
   content: "\e006";
 }
-.qcon-square-w:before {
+.qcon-github:before {
   content: "\e007";
 }
-.qcon-square:before {
+.qcon-gitip:before {
   content: "\e008";
 }
-.qcon-times-circle-o:before {
+.qcon-hypo-square:before {
   content: "\e009";
 }
-.qcon-times-circle:before {
+.qcon-inkan-eno:before {
   content: "\e00a";
 }
-.qcon-times:before {
+.qcon-menu:before {
   content: "\e00b";
+}
+.qcon-quota:before {
+  content: "\e00c";
+}
+.qcon-square-o:before {
+  content: "\e00d";
+}
+.qcon-square-or:before {
+  content: "\e00e";
+}
+.qcon-square-r:before {
+  content: "\e00f";
+}
+.qcon-square:before {
+  content: "\e010";
+}
+.qcon-star:before {
+  content: "\e011";
+}
+.qcon-target:before {
+  content: "\e012";
+}
+.qcon-twitter:before {
+  content: "\e013";
+}
+.qcon-x-circle-o:before {
+  content: "\e014";
+}
+.qcon-x-circle:before {
+  content: "\e015";
+}
+.qcon-x:before {
+  content: "\e016";
 }
 /*# sourceMappingURL=qcon.css.map */
